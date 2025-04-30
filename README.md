@@ -3,7 +3,7 @@
 print("Welcome to the Python 30-day challenge")
 ```
 ### library
-- [Numpy](NumPy)
+- [Numpy](Day-2/NumPy-(1st_part))
 - Pandas
 - Beautifulsoup
 - Scrapy

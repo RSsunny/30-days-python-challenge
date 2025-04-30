@@ -6,7 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="81c957e2-3794-42f5-8cb3-d7f295a9c8d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/array_indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-2/NumPy-(1st_part)/array_indexing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/array_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-2/NumPy-(1st_part)/array_slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/copy_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-3/NumPy-(2nd_part)/copy_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/data_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-2/NumPy-(1st_part)/data_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/import.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-2/NumPy-(1st_part)/import.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/reshaping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-3/NumPy-(2nd_part)/reshaping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Array_join.executor": "Run",
     "Python.array_indexing.executor": "Run",
     "Python.array_slicing.executor": "Run",
     "Python.copy_view.executor": "Run",
@@ -54,6 +62,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rabius Sunny\python\30-days-python-challenge\Day-3\NumPy-(2nd_part)" />
+      <recent name="C:\Users\Rabius Sunny\python\30-days-python-challenge\Day-2" />
+      <recent name="C:\Users\Rabius Sunny\python\30-days-python-challenge\Day-1" />
       <recent name="C:\Users\Rabius Sunny\python\30-days-python-challenge\NumPy" />
     </key>
   </component>
