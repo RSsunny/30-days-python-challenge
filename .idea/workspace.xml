@@ -52,6 +52,7 @@
     "Python.data_type.executor": "Run",
     "Python.import.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.moreUnfnc.executor": "Run",
     "Python.random.executor": "Run",
     "Python.randoms.executor": "Run",
     "Python.reshaping.executor": "Run",
