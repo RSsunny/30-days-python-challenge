@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="81c957e2-3794-42f5-8cb3-d7f295a9c8d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-5/NumPy_(part-4)/randoms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-5/NumPy_(part-4)/randoms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,16 +56,18 @@
     "Python.randoms.executor": "Run",
     "Python.reshaping.executor": "Run",
     "Python.seabornNp.executor": "Run",
+    "Python.uFunction.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rabius Sunny\python\30-days-python-challenge\File" />
+      <recent name="C:\Users\Rabius Sunny\python\30-days-python-challenge\Day-6\NumPy-(part-5)" />
       <recent name="C:\Users\Rabius Sunny\python\30-days-python-challenge\Day-3\NumPy-(2nd_part)" />
       <recent name="C:\Users\Rabius Sunny\python\30-days-python-challenge\Day-2" />
       <recent name="C:\Users\Rabius Sunny\python\30-days-python-challenge\Day-1" />
-      <recent name="C:\Users\Rabius Sunny\python\30-days-python-challenge\NumPy" />
     </key>
   </component>
   <component name="SharedIndexes">
